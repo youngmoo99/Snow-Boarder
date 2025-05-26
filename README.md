@@ -2,8 +2,8 @@
 
 <img src="mainmenu.PNG" width="600"/>
 
-A 2D side-scrolling snowboard game built with Unity!  
-Enjoy fluid controls, stylized visuals, and thrilling slopes as you race through snowy landscapes.
+Unity 2D 횡스크롤 스노우보드 게임
+좌/우 방향키를 통해 캐릭터가 바닥에 머리가 충돌하지 않고 결승점 까지 무사히 골인 해야 하는 게임
 
 ---
 
@@ -28,7 +28,6 @@ Enjoy fluid controls, stylized visuals, and thrilling slopes as you race through
 
 1. **좌/우 방향키**를 사용하여 캐릭터의 기울기 조절
 2. **윗 방향키**를 사용하여 가속
-3. 바닥에 머리를 부딪히지 않고 결승점 까지 골인
 
 ---
 
