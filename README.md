@@ -7,20 +7,18 @@ Unity 2D 횡스크롤 스노우보드 게임
 
 ---
 
-## 🎮 Features
+## 🎮 기능
 
-- 🏔️ Smooth downhill slopes with jumping mechanics
-- ❄️ Cartoon-style winter environment
-- 🎿 Character animation for snowboarding
-- ⛷️ Physics-based movement and momentum
-- 🎵 Background music and sound effects
+- 🏔️ S점프 메커니즘이 있는 부드러운 내리막 경사면
+- ❄️ 카툰 스타일 겨울 환경
+- 🎿 스노우보더 캐릭터 애니메이션
+- ⛷️ 물리학 기반의 움직임과 추진력
+- 🎵 배경음악 및 사운드 이펙트 
 
 ---
 
-## 📸 Screenshots
+## 📸 플레이 영상
 
-<img src="스크린샷경로1" width="400"/>
-<img src="스크린샷경로2" width="400"/>
 
 ---
 
@@ -31,16 +29,8 @@ Unity 2D 횡스크롤 스노우보드 게임
 
 ---
 
-## 🛠️ Development
+## 🛠️ 개발 도구
 
 - **Engine**: Unity 2D
 - **Language**: C#
 - **Tools**: Unity Animator, Rigidbody2D, Tilemap
-
----
-
-## 📂 Installation
-
-```bash
-git clone https://github.com/사용자ID/저장소명.git
-cd 저장소명
