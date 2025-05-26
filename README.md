@@ -1,6 +1,6 @@
 # 🏂 Snow-Boarder
 
-<img src="https://github.com/사용자ID/저장소명/raw/main/스크린샷경로.png" width="600"/>
+<img src="mainmenu.PNG" width="600"/>
 
 A 2D side-scrolling snowboard game built with Unity!  
 Enjoy fluid controls, stylized visuals, and thrilling slopes as you race through snowy landscapes.
