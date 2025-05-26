@@ -1,4 +1,4 @@
-# 🏂 Snowboard Rush
+# 🏂 Snow-Boarder
 
 <img src="https://github.com/사용자ID/저장소명/raw/main/스크린샷경로.png" width="600"/>
 
@@ -24,11 +24,11 @@ Enjoy fluid controls, stylized visuals, and thrilling slopes as you race through
 
 ---
 
-## 🚀 How to Play
+## 🚀 조작법
 
-1. **Arrow Keys** or **A/D** to move
-2. **Spacebar** to jump
-3. Avoid obstacles, build momentum, and land tricks!
+1. **좌/우 방향키**를 사용하여 캐릭터의 기울기 조절
+2. **윗 방향키**를 사용하여 가속
+3. 바닥에 머리를 부딪히지 않고 결승점 까지 골인
 
 ---
 
