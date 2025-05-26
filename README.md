@@ -19,6 +19,7 @@ Unity 2D 횡스크롤 스노우보드 게임
 
 ## 📸 플레이 영상
 
+https://youtu.be/ei616F_wYBg
 
 ---
 
