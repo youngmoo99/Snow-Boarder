@@ -29,7 +29,7 @@ A 2D physics-driven snowboarding game — spin, boost, and balance your way to t
 
 <h2 id="demo">🎮 플레이 영상</h2>
 
-▶️ Gameplay Video: 준비 중
+▶️ Gameplay Video: [게임 플레이 영상](https://youtu.be/ei616F_wYBg)
 
 방향키로 회전하고, 위쪽 키로 속도를 높여 스노우보드를 조종하세요.  
 충돌 시 눈가루 이펙트와 사운드가 발생하며 2 초 후 재시작됩니다.
@@ -132,7 +132,7 @@ Packages 자동 복구 후, Assets/Scenes/Demo.unity 실행
 
 ---
 
-<h2 id="screenshots">🖼️ 스크린샷 / Screenshots</h2> <p align="center"> <img src="Royal Run Main.png" width="720" alt="Royal Run Gameplay"/> <img src="Royal Run Main2.png" width="720" alt="Royal Run Gameplay"/> </p>
+<h2 id="screenshots">🖼️ 스크린샷 / Screenshots</h2> <p align="center"> <img src="Royal Run Main.png" width="720" alt="Royal Run Gameplay"/> <img src="mainmenu.PNG" width="720" alt="Royal Run Gameplay"/> </p>
 
 점프와 회전을 이용해 코스를 지나 결승선을 통과하면 골인 사운드가 주어집니다.
 충돌 시에는 게임오버 씬으로 전환됩니다.
