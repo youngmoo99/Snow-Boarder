@@ -1,4 +1,4 @@
-# SNOWBOARDER
+# SNOW BOARDER
 
 눈 덮인 산을 내려오며 회전과 점프를 조절해 완주하는 2D 물리 기반 스노우보드 게임  
 A 2D physics-driven snowboarding game — spin, boost, and balance your way to the finish line!
