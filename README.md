@@ -32,7 +32,7 @@ A 2D physics-driven snowboarding game — spin, boost, and balance your way to t
 ▶️ Gameplay Video: [게임 플레이 영상](https://youtu.be/ei616F_wYBg)
 
 방향키로 회전하고, 위쪽 키로 속도를 높여 스노우보드를 조종하세요.  
-충돌 시 눈가루 이펙트와 사운드가 발생하며 2 초 후 재시작됩니다.
+충돌 시 충돌 사운드가 발생하며 게임 오버 됩니다.
 
 ---
 
