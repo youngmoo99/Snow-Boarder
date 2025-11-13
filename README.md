@@ -118,7 +118,6 @@ Packages 자동 복구 후, Assets/Scenes/Demo.unity 실행
 
 ▶️ Play
 
-에셋 의존성이 있는 경우, Readme/팝업 안내에 따라 의존 패키지를 함께 설치하세요.
 
 ---
 
