@@ -131,7 +131,7 @@ Packages 자동 복구 후, Assets/Scenes/Demo.unity 실행
 
 ---
 
-<h2 id="screenshots">🖼️ 스크린샷 / Screenshots</h2> <p align="center"> <img src="mainmenu.PNG" width="720" alt="Royal Run Gameplay"/> </p>
+<h2 id="screenshots">🖼️ 스크린샷 / Screenshots</h2> <p align="center"> <img src="SnowBoarder Gameplay.png" width="720" alt="Royal Run Gameplay"/> </p>
 
 점프와 회전을 이용해 코스를 지나 결승선을 통과하면 골인 사운드가 주어집니다.
 충돌 시에는 게임오버 씬으로 전환됩니다.
